@@ -1,0 +1,10 @@
+create table registrocasadeoperacao(
+casadeoperacao_id int(5) primary_key auto_increment,
+casadeoperacao_Nome varchar(50) Not null,
+casadeoperacao_Saldo varchar(10) Not null,
+casadeoperacao_Link varchar(250) Not null,
+casadeoperacao_Credencial varchar(50) Not null,
+casadeoperacao_Senha varchar(20) Not null,
+casadeoperacao_DataCadastro varchar(6) Not null,
+casadeoperacao_HoraCadastro varchar(11) Not null
+)
