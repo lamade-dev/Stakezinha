@@ -3,7 +3,7 @@
 <head>
 	<title>Registrar uma casa de operação</title>
 	<meta charset="utf-8">
-	<?php include "configuracoes.php"; ?>
+	<?php include "inc/configuracoes.php"; ?>
 </head>
 <body>
 	<div>
